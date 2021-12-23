@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/wp_practice01/wp-content/plugins/query-monitor/wp-content/db.php

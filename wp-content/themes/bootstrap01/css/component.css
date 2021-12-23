@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#page-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 80%;
+    line-height: 3rem;
+    width: 3rem;
+    text-align: center;
+    border-radius: 100%;
+    background-color: white;
+    filter: drop-shadow(0 0.125rem 1.5px );
+}
+
+#page-top:hover {
+  background-color: #ddd;
+}
